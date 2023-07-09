@@ -41,26 +41,16 @@ Here are some ideas to get you started:
 
 #
 
-### Algorithms</br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=trankill1127)](https://solved.ac/trankill1127)<br/>
-
-#
-
 ### Projects
 
 ##### Ask ALL (2023.01-2023.04/1인) 
-###### 질의 응답 웹 서비스
 ##### 종종 (2022.06/3인) 
-###### 세종대학교 내에서 목적지까지의 최단 경로를 안내해주는 웹 서비스</br>:tada:소프트웨어학과 학술제 기술 점수 2등  
 ##### CAN (2022.03-2023.06/3인) 
-###### 광진구 내에서 현재 위치에 기반해 가장 가까운 쓰레기통의 위치와 그곳까지 가는 경로를 실시간으로 알려주는 안드로이드 앱 서비스
 
 #
 
-### Additional sources to reach me</br>
-<a href="https://blog.naver.com/tranttran_k"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
-<a href="www.linkedin.com/in/jinnie-kim-trankill1127"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.instagram.com/o_ojiiin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+### Algorithms</br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=trankill1127)](https://solved.ac/trankill1127)<br/>
 
 </div>
 
